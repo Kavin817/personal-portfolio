@@ -30,3 +30,6 @@ Email: your-email@example.com
 
 These projects help me improve my programming
 and web development skills.
+I am a passionate student learning web
+development and interested in creating
+modern websites.
