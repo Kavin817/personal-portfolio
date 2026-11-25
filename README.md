@@ -16,6 +16,20 @@ Hello! I am a student interested in web development.
 
 ## Contact
 Email: your-email@example.com
+## My Projects
+
+1. Personal Portfolio Website
+2. Student Management System
+3. Online Shopping Website
+4. Calculator Application
+## My Projects
+
+1. Personal Portfolio Website
+2. Student Management System
+3. Calculator Application
+
+These projects help me improve my programming
+and web development skills.
 I am a passionate student learning web
 development and interested in creating
 modern websites.
