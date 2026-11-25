@@ -16,3 +16,6 @@ Hello! I am a student interested in web development.
 
 ## Contact
 Email: your-email@example.com
+I am a passionate student learning web
+development and interested in creating
+modern websites.
